@@ -1,0 +1,352 @@
+[
+  {
+    "id": "gq_001",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy short questions defining chemistry and identifying its daily life applications.",
+    "golden_ids": ["chem9_unit1_001"]
+  },
+  {
+    "id": "gq_002",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 5 easy short questions naming all main branches of chemistry.",
+    "golden_ids": ["chem9_unit1_001", "chem9_unit1_002", "chem9_unit1_003", "chem9_unit1_004", "chem9_unit1_005"]
+  },
+  {
+    "id": "gq_003",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy short questions defining matter and its three physical states.",
+    "golden_ids": ["chem9_unit1_006"]
+  },
+  {
+    "id": "gq_004",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 4 easy short questions on the definition of an element and its classification into metals, non-metals, and metalloids.",
+    "golden_ids": ["chem9_unit1_008", "chem9_unit1_009"]
+  },
+  {
+    "id": "gq_005",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy questions defining a compound and explaining why it forms in a fixed ratio by mass.",
+    "golden_ids": ["chem9_unit1_010"]
+  },
+  {
+    "id": "gq_006",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 4 easy MCQs defining a mixture and distinguishing between homogeneous and heterogeneous mixtures with examples.",
+    "golden_ids": ["chem9_unit1_011", "chem9_unit1_012"]
+  },
+  {
+    "id": "gq_007",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy questions defining atomic number and mass number with numerical examples.",
+    "golden_ids": ["chem9_unit1_013", "chem9_unit1_014"]
+  },
+  {
+    "id": "gq_008",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 4 easy questions defining ions and identifying cations and anions with examples.",
+    "golden_ids": ["chem9_unit1_019", "chem9_unit1_020"]
+  },
+  {
+    "id": "gq_009",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy Mcqs defining Avogadro's number and stating its numerical value.",
+    "golden_ids": ["chem9_unit1_023", "chem9_unit1_024"]
+  },
+  {
+    "id": "gq_010",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 4 easy questions defining the mole and naming the unit it is abbreviated as.",
+    "golden_ids": ["chem9_unit1_024", "chem9_unit1_025"]
+  },
+  {
+    "id": "gq_011",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy questions defining isotopes and stating their key characteristics regarding atomic number and mass number.",
+    "golden_ids": ["chem9_unit2_031"]
+  },
+  {
+    "id": "gq_012",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 4 easy questions naming and identifying the isotopes of hydrogen, carbon, chlorine, and uranium.",
+    "golden_ids": ["chem9_unit2_032"]
+  },
+  {
+    "id": "gq_013",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy short questions on Bohr's atomic model stating where electrons are located and how they move between shells.",
+    "golden_ids": ["chem9_unit2_030", "chem9_unit2_031"]
+  },
+  {
+    "id": "gq_014",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 4 easy short questions classifying molecules as monoatomic, diatomic, triatomic, or polyatomic with examples.",
+    "golden_ids": ["chem9_unit1_022", "chem9_unit1_023"]
+  },
+  {
+    "id": "gq_015",
+    "difficulty": "easy",
+    "bloom_level": "remember",
+    "query": "Generate 3 easy questions about a free radical?",
+    "golden_ids": ["chem9_unit1_021", "chem9_unit1_022"]
+  },
+  {
+    "id": "gq_016",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium short questions differentiating between physical and chemical properties of matter with examples.",
+    "golden_ids": ["chem9_unit1_007"]
+  },
+  {
+    "id": "gq_017",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium long questions explaining the full classification hierarchy of matter from mixtures down to elements and compounds.",
+    "golden_ids": ["chem9_unit1_007", "chem9_unit1_008"]
+  },
+  {
+    "id": "gq_018",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium short questions comparing ionic and covalent compounds in terms of structure, formula representation, and melting points.",
+    "golden_ids": ["chem9_unit1_010", "chem9_unit1_011"]
+  },
+  {
+    "id": "gq_019",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions comparing a compound and a mixture across five properties including composition, formula, and separability.",
+    "golden_ids": ["chem9_unit1_012", "chem9_unit1_013"]
+  },
+  {
+    "id": "gq_020",
+    "difficulty": "medium",
+    "bloom_level": "apply",
+    "query": "Generate 4 medium questions explaining the steps to write a chemical formula using valency and the cross-exchange method, including formulas with radicals.",
+    "golden_ids": ["chem9_unit1_009", "chem9_unit1_015", "chem9_unit1_016"]
+  },
+  {
+    "id": "gq_021",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions explaining empirical formula and how it is derived from the percentage composition of a compound.",
+    "golden_ids": ["chem9_unit1_016", "chem9_unit1_017"]
+  },
+  {
+    "id": "gq_022",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium questions explaining molecular formula and its relationship to empirical formula using the formula: MF = EF × n.",
+    "golden_ids": ["chem9_unit1_017", "chem9_unit1_018"]
+  },
+  {
+    "id": "gq_023",
+    "difficulty": "medium",
+    "bloom_level": "apply",
+    "query": "Generate 3 medium questions calculating molecular mass and formula mass for given substances using atomic masses.",
+    "golden_ids": ["chem9_unit1_018", "chem9_unit1_019"]
+  },
+  {
+    "id": "gq_024",
+    "difficulty": "medium",
+    "bloom_level": "apply",
+    "query": "Generate 4 medium questions applying mole-mass calculations to find number of moles from a given mass and vice versa.",
+    "golden_ids": ["chem9_unit1_025", "chem9_unit1_026", "chem9_unit1_027"]
+  },
+  {
+    "id": "gq_025",
+    "difficulty": "medium",
+    "bloom_level": "apply",
+    "query": "Generate 3 medium questions applying mole-particle calculations to find the number of atoms or molecules using Avogadro's number.",
+    "golden_ids": ["chem9_unit1_027", "chem9_unit1_028"]
+  },
+  {
+    "id": "gq_026",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium questions on the uses and applications of isotopes in medicine, industry, agriculture, and archaeology.",
+    "golden_ids": ["chem9_unit2_033"]
+  },
+  {
+    "id": "gq_027",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions explaining Rutherford's gold foil experiment, its observations, and the conclusions drawn about atomic structure.",
+    "golden_ids": ["chem9_unit2_029", "chem9_unit2_030"]
+  },
+  {
+    "id": "gq_028",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium questions explaining electronic configuration and how electrons are arranged across shells K, L, M and subshells s, p, d.",
+    "golden_ids": ["chem9_unit2_033"]
+  },
+  {
+    "id": "gq_029",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions defining gram atomic mass, gram molecular mass, and gram formula mass and linking each to Avogadro's number.",
+    "golden_ids": ["chem9_unit1_025"]
+  },
+  {
+    "id": "gq_030",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium questions explaining what a molecular ion is, how it is formed, and the difference between cationic and anionic molecular ions.",
+    "golden_ids": ["chem9_unit1_020", "chem9_unit1_021"]
+  },
+  {
+    "id": "gq_031",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions explaining organic chemistry, what it studies, and the industries it covers.",
+    "golden_ids": ["chem9_unit1_002"]
+  },
+  {
+    "id": "gq_032",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium questions explaining biochemistry, the chemical processes it covers, and its applications in medicine and food science.",
+    "golden_ids": ["chem9_unit1_003"]
+  },
+  {
+    "id": "gq_033",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions explaining nuclear chemistry and its applications in energy generation and medical treatment.",
+    "golden_ids": ["chem9_unit1_004"]
+  },
+  {
+    "id": "gq_034",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 4 medium questions explaining analytical chemistry including the difference between qualitative and quantitative analysis and the fields it serves.",
+    "golden_ids": ["chem9_unit1_005", "chem9_unit1_006"]
+  },
+  {
+    "id": "gq_035",
+    "difficulty": "medium",
+    "bloom_level": "understand",
+    "query": "Generate 3 medium questions explaining relative atomic mass and how it is defined using the carbon-12 standard, including the value of one amu in grams.",
+    "golden_ids": ["chem9_unit1_014", "chem9_unit1_015"]
+  },
+  {
+    "id": "gq_036",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 4 hard questions evaluating the classification of matter into elements, compounds, and mixtures, justifying how differences in composition and properties determine the category.",
+    "golden_ids": ["chem9_unit1_007", "chem9_unit1_008", "chem9_unit1_010", "chem9_unit1_012"]
+  },
+  {
+    "id": "gq_037",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 3 hard questions evaluating how Bohr's atomic model addressed the limitations of Rutherford's model and what experimental evidence drove each change.",
+    "golden_ids": ["chem9_unit2_029", "chem9_unit2_030", "chem9_unit2_031"]
+  },
+  {
+    "id": "gq_038",
+    "difficulty": "hard",
+    "bloom_level": "analyze",
+    "query": "Generate 4 hard questions analyzing how empirical formula leads to molecular formula and how molecular mass and molar mass connect to mole calculations.",
+    "golden_ids": ["chem9_unit1_016", "chem9_unit1_017", "chem9_unit1_018", "chem9_unit1_025", "chem9_unit1_026"]
+  },
+  {
+    "id": "gq_039",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 3 hard questions justifying how the mole concept bridges macroscopic mass and microscopic particle count, requiring multi-step conversions through mass, moles, and particles.",
+    "golden_ids": ["chem9_unit1_023", "chem9_unit1_024", "chem9_unit1_025", "chem9_unit1_026", "chem9_unit1_027", "chem9_unit1_028"]
+  },
+  {
+    "id": "gq_040",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 4 hard long questions evaluating the role of valency in systematically writing chemical formulas for ionic and covalent compounds, including compounds containing radicals.",
+    "golden_ids": ["chem9_unit1_009", "chem9_unit1_015", "chem9_unit1_016"]
+  },
+  {
+    "id": "gq_041",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 3 hard short questions critiquing how isotopes of the same element maintain chemical identity despite physical differences, using specific isotopes of hydrogen, carbon, chlorine, and uranium as evidence.",
+    "golden_ids": ["chem9_unit2_031", "chem9_unit2_032", "chem9_unit2_033"]
+  },
+  {
+    "id": "gq_042",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 4 hard questions evaluating how different branches of chemistry contribute to solving real-world problems across medicine, environment, industry, and energy.",
+    "golden_ids": ["chem9_unit1_001", "chem9_unit1_002", "chem9_unit1_003", "chem9_unit1_004", "chem9_unit1_005"]
+  },
+  {
+    "id": "gq_043",
+    "difficulty": "hard",
+    "bloom_level": "analyze",
+    "query": "Generate 3 hard questions analyzing the complete molar calculation pathway requiring conversion from mass to moles to number of particles for both molecular and ionic compounds.",
+    "golden_ids": ["chem9_unit1_026", "chem9_unit1_027", "chem9_unit1_028"]
+  },
+  {
+    "id": "gq_044",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 4 hard questions evaluating the progression of atomic theory from Dalton to Rutherford, identifying the experimental evidence that forced each revision.",
+    "golden_ids": ["chem9_unit1_028", "chem9_unit2_029", "chem9_unit2_030"]
+  },
+  {
+    "id": "gq_045",
+    "difficulty": "hard",
+    "bloom_level": "analyze",
+    "query": "Generate 3 hard long questions analyzing how the classification of molecules as homoatomic or heteroatomic relates to the fundamental distinction between elements and compounds.",
+    "golden_ids": ["chem9_unit1_008", "chem9_unit1_022", "chem9_unit1_023"]
+  },
+  {
+    "id": "gq_046",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 4 hard questions evaluating ionic versus covalent compounds in terms of crystal structure, formula representation (formula unit vs molecular formula), and physical properties.",
+    "golden_ids": ["chem9_unit1_010", "chem9_unit1_011", "chem9_unit1_016", "chem9_unit1_017"]
+  },
+  {
+    "id": "gq_047",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 3 hard short questions justifying why free radicals are more reactive than ions by comparing their electronic structures, formation conditions, and stability.",
+    "golden_ids": ["chem9_unit1_019", "chem9_unit1_020", "chem9_unit1_021", "chem9_unit1_022"]
+  },
+  {
+    "id": "gq_048",
+    "difficulty": "hard",
+    "bloom_level": "analyze",
+    "query": "Generate 4 hard questions analyzing how atomic number and mass number together determine neutron count and how this directly defines isotopes using examples from the periodic table.",
+    "golden_ids": ["chem9_unit1_013", "chem9_unit1_014", "chem9_unit2_031", "chem9_unit2_032"]
+  },
+  {
+    "id": "gq_049",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 3 hard questions evaluating the differences between molecular ions and free radicals in terms of formation mechanism, charge, stability, and reactivity.",
+    "golden_ids": ["chem9_unit1_020", "chem9_unit1_021"]
+  },
+  {
+    "id": "gq_050",
+    "difficulty": "hard",
+    "bloom_level": "evaluate",
+    "query": "Generate 4 hard questions critiquing how the concept of valency underpins both the classification of compounds as ionic or covalent and the systematic writing of their chemical formulas.",
+    "golden_ids": ["chem9_unit1_009", "chem9_unit1_010", "chem9_unit1_015", "chem9_unit1_016"]
+  }
+]
