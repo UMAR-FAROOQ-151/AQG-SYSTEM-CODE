@@ -1,5 +1,4 @@
-# Intelligent Retrieval-Augmented Question Generation using Fine-Tuned Large Language Models
-
+# Syllabus Aligned Automated Question Generation Using Retrieval Augmented and Fine Tuned Large Language Models
 ## Overview
 
 This project presents an intelligent question generation framework based on Retrieval-Augmented Generation (RAG) and parameter-efficient fine-tuning of Large Language Models. The system is designed to generate syllabus-aligned academic questions by retrieving relevant educational content before generation. Two instruction-tuned language models, **LLaMA 3** and **Mistral**, are implemented following the same research methodology and evaluated under identical experimental settings.
